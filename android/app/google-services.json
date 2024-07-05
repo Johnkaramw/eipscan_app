@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254565017038",
+    "project_id": "andro-b0e02",
+    "storage_bucket": "andro-b0e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254565017038:android:45db9beaa1ce12e887f79f",
+        "android_client_info": {
+          "package_name": "com.example.eipscan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJC0LYAvFvqC5vd7Gwo800bkIqBB4YC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

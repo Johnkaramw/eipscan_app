@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85349737846",
+    "project_id": "tadros-dc4f2",
+    "storage_bucket": "tadros-dc4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85349737846:android:4335731e5a656d4a7bc657",
+        "android_client_info": {
+          "package_name": "com.firebas.eipscan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2KOBueHK0BfMhZQI5BDKJVy9R6mElFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
